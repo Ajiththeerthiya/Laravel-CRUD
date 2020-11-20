@@ -1,9 +1,9 @@
-login page using jetstream
+*login page using jetstream
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/67873730/99808980-af715c80-2b67-11eb-9d52-92f6a8ba88bf.png)
 
 
-Customers form with edit and delete options
+*Customers form with edit and delete options
 
 
 ![2020-11-20 (1)](https://user-images.githubusercontent.com/67873730/99816080-3414a880-2b71-11eb-8325-74971ad00a22.png)
