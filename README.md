@@ -13,3 +13,8 @@
 *Customers Update form
 
 ![2020-11-20 (4)](https://user-images.githubusercontent.com/67873730/99817010-6246b800-2b72-11eb-8191-d252e19380d7.png)
+
+*Using Component method linked customers-details in dashboard
+
+![2020-11-20 (5)](https://user-images.githubusercontent.com/67873730/99817362-d2edd480-2b72-11eb-9353-2aabc655f508.png)
+![2020-11-20 (6)](https://user-images.githubusercontent.com/67873730/99817373-d5e8c500-2b72-11eb-9844-86a6eddc84a1.png)
